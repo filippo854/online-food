@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Document</title>
+ <link rel="stylesheet" href="./index.css">
+ <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,900;1,400;1,800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+</head>
+<body>
+
+ <header>
+
+  
+  <div class="navbar">
+   <img src="./img/logo.png" alt="" class="logo">
+   <ul class="nav-options">
+   <li>Jak to działa</li>
+   <a href="contact.html"><li style="color: white;">Kontakt</li></a>
+   <li>O nas</li>
+  </ul></div>
+  <div class="banner-text"><a href=""><h1>Zamów jedzenie już teraz</h1></a></div>
+  <div class="adres-input">
+   <input type="text" placeholder="Podaj adres dostawy"> 
+   <Button class="search-btn">Szukaj</Button>
+  </div>
+
+ </header>
+ <aside class="cart">
+  <h1>koszyk</h1>
+  <div class="cart-items">
+
+   <div class="cart-single-item">
+    <div class="cart-dish-img" style="background-image: url(./img/category_burger.jpg)">
+    </div>
+    <div class="cart-dish-and-price">
+     <h1>Burger Classic</h1>
+     <div class="amount-manager">
+    <div class="amount">Ilość:<span>1</span></div>
+    <div class="amount-btns">
+     <i class="fa fa-plus"></i>
+     <i class="fa fa-minus"></i>
+    </div>
+     </div>
+     <div class="cart-item-price">Cena: <span>20zł</span></div>
+    <div class="cart-delete"><i class="fa fa-times"></i></div>
+    </div>
+   </div>
+
+  </div>
+  <h3>Razem:<span class="total-amount">20zł</span></h3>
+  <button class="order">Zamów</button>
+ </aside>
+
+ <section class="mainPageLeftSection">
+  <div class="about-icons">
+   <figure class="about-single-item">
+    <img src="./img/about_icon1.png" alt="" class="about-icon1">
+    <figcaption><h1>Łatwe zamawianie</h1><p>Szybko, łatwo i z każdego urządzenia</p></figcaption>
+   </figure>
+   <figure class="about-single-item">
+    <img src="./img/about_icon2.png" alt="" class="about-icon1">
+    <figcaption>
+     <h1>Szeroki wybór</h1>
+     <p>Wszystko czego chcesz</p>
+    </figcaption>
+   </figure>
+   <figure class="about-single-item">
+    <img src="./img/about_icon3.png" alt="" class="about-icon1">
+    <figcaption>
+     <h1>Nasze osiągnięcia</h1>
+     <p>Sprawdź naszą ocenę wśród klientów</p>
+    </figcaption>
+   </figure>
+
+  </div>
+ </section>
+
+ <section class="mainPageLeftSection">
+  <div class="search-text"><h1>Kategorie</h1></div>
+  <div class="categories">
+    <div class="single-category">
+      <div class="category-all category category-active"></div>
+      <p>Wszystko</p>
+    </div>
+   <div class="single-category"><div class="category-burgers category" ></div><p>Burgery</p></div>
+   <div class="single-category">
+    <div class="category-salad category"></div>
+    <p>Sałatki</p>
+   </div>
+   <div class="single-category">
+    <div class="category-pasta category"></div>
+    <p>Makaron</p>
+   </div>
+   <div class="single-category">
+    <div class="category-addons category"></div>
+    <p>Dodatki</p>
+   </div>
+   <div class="single-category">
+    <div class="category-drinks category"></div>
+    <p>Napoje</p>
+   </div>
+   
+   
+  </div>
+ </section>
+
+ <section class="dishes mainPageLeftSection">
+  <h1>Menu</h1>
+  <div class="dishes-items"></div>
+   
+ </section>
+
+ <footer>
+  <ul class="footer-options">
+   <li>Ofery pracy</li>
+   <li>Regulamin</li>
+   <li>Polityka prywatności</li>
+   <li>Polityka cookies</li>
+  </ul>
+
+  <div class="social-icons">
+   <i class="fa fa-facebook social-icon" style="font-size: 2rem;"></i>
+   <i class="fa fa-twitter social-icon" style="font-size: 2rem;"></i>
+   <i class="fa fa-youtube social-icon" style="font-size: 2rem;"></i>
+  </div>
+
+  <h4>&copy; 2020 jedzenie.pl</h4>
+ </footer>
+ 
+ <script type="module" src="./index.js"></script>
+</body>
+</html>

@@ -1,0 +1,99 @@
+[
+ {
+  "id": "1",
+  "name": "Burger Classic",
+  "category": "burger",
+  "price": "20",
+  "description" : "200 g. wołowiny, pomidor, cebula czerwona, sałata, ogórek, cebulka prażona, sos",
+  "image": "https://img.grouponcdn.com/deal/vw3eMBVJkkaJf3Agx4EHAd/servlet-5-960x576/v1/c700x420.jpg",
+  "moreDescription": "Typowe danie typu fast food, kanapka (sandwicz) z kotletem z mięsa wołowego (patty). Porcja mięsa mielonego uformowana jest tu w płaski, okrągły placek, następnie usmażona lub upieczona bez panierki na ruszcie (grillu).Gotowy kotlet bywa zwykle umieszczany między dwoma kawałkami lekko przypieczonej, poprzecznie przeciętej bułki (co pozwala go jeść trzymając w dłoni, bez pomocy sztućców), oraz ugarnirowany dodatkami takimi jak sałata, pomidor, ketchup, majonez, ogórek konserwowy."
+ },
+ {
+  "id": "2",
+  "name": "Burger wegetariański",
+  "category": "burger",
+  "price": "20",
+  "description" : "classic (z burgerem z cieciorki i cukinii zamiast wołowiny)",
+  "image": "https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/burger_z_halloumi_00_0.jpg"
+ },
+ {
+  "id": "3",
+  "name": "Burger cheese",
+  "category": "burger",
+  "price": "25",
+  "description" : "200 g. wołowiny, pomidor, cebula czerwona, sałata, ogórek, cebulka prażona, sos, cheddar",
+  "image": "https://tasteandsee.com/wp-content/uploads/2017/06/Easy-Pimento-Cheese-and-Bacon-Burger-EL-burger-great.jpg"
+ },
+ {
+  "id": "4",
+  "name": "Sałatka chicken",
+  "category": "salad",
+  "price": "18",
+  "description" : "z grillowanym kurczakiem, mieszanką sałat, pomidorkami cherry, serem feta i sosem vinegret",
+  "image": "https://healthyfitnessmeals.com/wp-content/uploads/2020/05/instagram-In-Stream_Square___Greek-chicken-salad-4.jpg"
+ },
+ {
+  "id": "5",
+  "name": "Sałatka fit",
+  "category": "salad",
+  "price": "20",
+  "description" : "grillowane krewetki, mieszanka sałat, rukola, awokado, pomidorki cherry, oliwa z oliwek",
+  "image": "https://foodsbyann.com/data/include/img/news/1582548679.jpg"
+ },
+ {
+  "id": "6",
+  "name": "Pasta pepperoni",
+  "category": "pasta",
+  "price": "21",
+  "description" : "salami pepperoni, sos pomidorowy, papryczki jalapeno, cebula, parmezan, pomidorki cherry",
+  "image": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Pepperoni-Pasta_exps13642_FFC1871840D09_11_4bC_RMS.jpg"
+ },
+ {
+  "id": "7",
+  "name": "Pasta bolognese",
+  "category": "pasta",
+  "price": "22",
+  "description" : "mięso mielone, sos pomidorowy, marchew, czosnek, cebula, parmezan, rukola",
+  "image": "https://thecozycook.com/wp-content/uploads/2019/08/Bolognese-Sauce.jpg"
+ },
+ {
+  "id": "8",
+  "name": "Pasta carbonara",
+  "category": "pasta",
+  "price": "22",
+  "description" : "boczek, sos śmietanowy, pomidorki cherry, czosnek, natka pietruszki, parmezan, rukola",
+  "image": "https://www.mojegotowanie.pl/uploads/media/recipe/0001/100/carbonara.jpeg"
+ },
+ {
+  "id": "9",
+  "name": "Frytki",
+  "category": "addons",
+  "price": "8",
+  "description" : "",
+  "image": "https://wszystkoojedzeniu.pl/site/assets/files/88291/frytki.650x0.jpg"
+ },
+ {
+  "id": "10",
+  "name": "Cola",
+  "category": "drinks",
+  "price": "6",
+  "description" : "",
+  "image": "https://image.ceneostatic.pl/data/products/49752493/i-riedel-szklanki-coca-cola-o-riedel-rd041421.jpg"
+ },
+ {
+  "id": "11",
+  "name": "Fanta",
+  "category": "drinks",
+  "price": "6",
+  "description" : "",
+  "image": "https://st2.depositphotos.com/1434090/12327/i/950/depositphotos_123273230-stock-photo-glass-of-fanta-on-white.jpg"
+ },
+{
+  "id": "12",
+  "name": "Nestea",
+  "category": "drinks",
+  "price": "5",
+  "description" : "",
+  "image": "https://www.pngkit.com/png/detail/45-453416_nestea-iced-tea-has-a-refreshing-balanced-taste.png"
+ }
+]
